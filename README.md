@@ -1,6 +1,6 @@
-# Xmeme
+# MEMEDECO
 
-**XMEME** is a full stack web application to pull created memes using their URL and listing them on the page with the user’s name and caption.
+**MEMEDECO** is a full stack web application to pull created memes using their URL and listing them on the page with the user’s name and caption.
 
 ## :fire: Features
 
